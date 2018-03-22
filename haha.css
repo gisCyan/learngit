@@ -1,6 +1,8 @@
-
 @charset 'utf-8';
-
 .wrapper {
-	background: pink;
+    background: pink;
+}
+
+.wrapper .ln-panel {
+    background: #FFF;
 }

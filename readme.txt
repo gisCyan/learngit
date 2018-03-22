@@ -14,3 +14,6 @@ by cyan @201803221316
 -- master - feature1
 Creating a new branch is quick & and AND simple.
 -- master - feature1
+
+-- I have an issue to fix in two hours,now i have to stash the current state.
+
